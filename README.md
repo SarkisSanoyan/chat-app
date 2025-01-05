@@ -137,4 +137,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **MongoDB** for data persistence.
 
-**React, Tailwind CSS** for creating a responsive and beautiful user interface.
+**React.js, Tailwind CSS** for creating a responsive and beautiful user interface.
